@@ -6,3 +6,5 @@ När problem uppstår som merging conflicts kommer vi analysera varför det sker
 Vi testar också olika visualiserings fuktioner för Git log historik med commits, branches, merges etc. som med -graph.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 här skriver jag mera text
+
+Här är lite test text för merge
